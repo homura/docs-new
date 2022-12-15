@@ -1,5 +1,5 @@
 ---
-id: general
+id: General
 title: General FAQ
 ---
 
